@@ -41,4 +41,24 @@ body {
     cursor: pointer;
  }
 
- 
+ .button.dark-grey {
+    background-color: #333;
+    color: #fff;
+ }
+
+ .button.orange {
+    background-color: #f39c12;
+    color: #fff;
+ }
+
+ .button.light-grey {
+    background-color: d3d3d3;
+    color: #000;
+ }
+
+ .button-wide {
+    grid-column: span 2;
+    border-radius: 50px;
+ }
+
+
